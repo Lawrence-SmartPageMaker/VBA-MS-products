@@ -8,8 +8,8 @@
   <li>
   	<strong>Episode-1</strong> - 
   	<a href="https://github.com/Lawrence-SmartPageMaker/VBA-MS-products/blob/main/Excel-PivotTable/epi1-UserPicksLevel-toShow/">
-  	The <em>Describing Development</em>:
-        excel app - to start <strong>User Picks Consolidation Level</strong>
+  	The <em>An Excel app</em>:
+        - to start <strong>User Picks Consolidation Level</strong>
   	 </a> 
   </li>
   <li>
